@@ -1,0 +1,13 @@
+Austin Average Monthly low high Temperatures (Fahrenheit) Years 2010 - 2019
+41 63
+46 67
+53 75
+59 81
+67 87
+74 94
+76 98
+76 100
+72 93
+61 83
+50 72
+44 64
